@@ -6,6 +6,7 @@
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1603-design-parking-system) |
@@ -20,6 +21,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1396-design-underground-system) |
 ## String
 |  |
@@ -28,10 +30,12 @@
 ## Array
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
@@ -45,4 +49,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
