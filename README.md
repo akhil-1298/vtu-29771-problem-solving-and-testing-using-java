@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0387-first-unique-character-in-a-string) |
 | [1396-design-underground-system](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1396-design-underground-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0344-reverse-string) |
 ## Matrix
 |  |
 | ------- |
