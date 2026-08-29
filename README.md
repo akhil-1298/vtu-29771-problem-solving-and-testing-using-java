@@ -23,6 +23,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1600-throne-inheritance) |
@@ -34,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
 ## Linked List
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [1600-throne-inheritance](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1600-throne-inheritance) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
