@@ -25,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0705-design-hashset) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0025-reverse-nodes-in-k-group) |
+| [0142-linked-list-cycle-ii](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0876-middle-of-the-linked-list) |
@@ -87,6 +89,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0344-reverse-string) |
@@ -109,4 +112,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0234-palindrome-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
