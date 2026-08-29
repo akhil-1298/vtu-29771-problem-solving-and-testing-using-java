@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1603-design-parking-system) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [1396-design-underground-system](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1396-design-underground-system) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Array
 |  |
 | ------- |
