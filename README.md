@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0876-middle-of-the-linked-list) |
@@ -106,5 +107,6 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
