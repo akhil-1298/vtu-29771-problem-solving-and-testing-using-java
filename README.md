@@ -52,6 +52,7 @@
 | [0739-daily-temperatures](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0867-transpose-matrix) |
 | [1472-design-browser-history](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0739-daily-temperatures](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -133,4 +135,5 @@
 | [0496-next-greater-element-i](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
