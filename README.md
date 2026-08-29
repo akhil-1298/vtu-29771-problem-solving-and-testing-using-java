@@ -48,6 +48,7 @@
 | [0283-move-zeroes](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0705-design-hashset) |
+| [0739-daily-temperatures](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0867-transpose-matrix) |
 | [1472-design-browser-history](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
 ## Linked List
@@ -66,6 +67,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -126,4 +128,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
