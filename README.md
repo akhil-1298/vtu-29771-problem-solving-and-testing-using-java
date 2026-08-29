@@ -29,6 +29,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1600-throne-inheritance) |
@@ -45,6 +46,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0867-transpose-matrix) |
 | [1472-design-browser-history](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0496-next-greater-element-i) |
 | [1472-design-browser-history](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -119,4 +122,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0142-linked-list-cycle-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
