@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0283-move-zeroes) |
 | [0705-design-hashset](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
 ## Linked List
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
