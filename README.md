@@ -14,6 +14,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -38,6 +39,7 @@
 | [0217-contains-duplicate](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0283-move-zeroes) |
 | [0705-design-hashset](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0705-design-hashset) |
+| [0867-transpose-matrix](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0867-transpose-matrix) |
 | [1472-design-browser-history](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
 ## Linked List
 |  |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0283-move-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/akhil-1298/vtu-29771-problem-solving-and-testing-using-java/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
